@@ -28,13 +28,6 @@ CompanionAI is a reliable AI friend chatbot designed to provide real-time conver
 
 The bot accepts voice input or text, transcribes speech to text, and processes queries using a combination of human psychology PDFs. It returns personalized, empathetic responses aimed at alleviating loneliness and depression.
 
-## Future Scope
-
-- Multilingual voice integration with real-time translation  
-- Lifelike 3D animated avatars with realistic expressions and lip-syncing  
-- Enhanced emotional recognition using facial expressions and tone analysis  
-- AI-based content moderation for safe interactions
-
 ## To Run
 
 ### Backend Setup
