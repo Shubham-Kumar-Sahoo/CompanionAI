@@ -5,7 +5,7 @@ CompanionAI is a reliable AI friend chatbot designed to provide real-time conver
 ## Images
 
 ![Login Page](img/Login.jpeg)  
-![AI Voice Select Page](img/Voice Select.jpeg)  
+![AI Voice Select Page](img/Voice_Select.jpeg)  
 ![Chatbot](img/Chatbot.jpeg)  
 
 
