@@ -34,3 +34,33 @@ The bot accepts voice input or text, transcribes speech to text, and processes q
 - Lifelike 3D animated avatars with realistic expressions and lip-syncing  
 - Enhanced emotional recognition using facial expressions and tone analysis  
 - AI-based content moderation for safe interactions
+
+## To Run
+
+### Backend Setup
+
+1. Navigate to the project directory:
+   ```bash
+   cd CompanionAI-The-Reliable-AI-Friend
+   ```
+2. Install Node Module Packages:
+   ```bash
+   npm install
+   ```
+3. Run the backend server:
+   ```bash
+   node app.js
+   ```
+
+### Frontend Setup
+
+1. Navigate to the frontend directory and install dependencies:
+   ```bash
+   cd frontend
+   npm install
+   ```
+2. Start the frontend development server:
+   ```bash
+   npm run dev
+   ```
+3. Access the application at `http://localhost:5173`.
